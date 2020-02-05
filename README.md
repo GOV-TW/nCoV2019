@@ -20,4 +20,6 @@
 # ToDo List
 
 -   資料收集
--   建立資訊網站 (?)
+-   建立資料讀取 API + RSS feeds
+-   建立資訊網站 (?) / Telegram Channel
+-   應用 apps
